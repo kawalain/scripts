@@ -1,3 +1,4 @@
-userscripts
+scripts
 ---
-내가 쓰는 유저스크립트 모음집, [스크립트 목록](https://openuserjs.org/users/toriato/scripts)
+
+레포지토리 하나로 관리하기엔 너무나 작은 스크립트 모음집
