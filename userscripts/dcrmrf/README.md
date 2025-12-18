@@ -1,7 +1,7 @@
 `dcrmrf.user.js`
 ---
 
-<img src="https://gist.github.com/user-attachments/assets/9dcff039-6fc9-440c-83fa-e50d0440a62a" height="300">
+<img width="200" alt="9dcff039-6fc9-440c-83fa-e50d0440a62a" src="https://github.com/user-attachments/assets/9bf81cfc-0c8b-4657-9e8b-2c051da2c556" />
 <br><br>
 
 - [Greasy Fork](https://greasyfork.org/en/scripts/530031-dcrmrf)
